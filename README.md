@@ -42,6 +42,11 @@ O programa salva as configurações em:
 
 Este projeto está sob a licença ISC - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
+### Aviso Legal
+
+Este software é distribuído gratuitamente e "no estado em que se encontra", sem garantias de qualquer tipo. O autor não se responsabiliza por eventuais danos, perdas de dados ou problemas decorrentes do uso deste aplicativo.
+
+
 ## ✨ Próximas Features
 
 - [ ] Sincronização com nuvem
