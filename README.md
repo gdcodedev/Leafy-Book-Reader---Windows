@@ -27,8 +27,7 @@ Um leitor moderno de EPUB e PDF para Windows, construído com Electron.
 
 ## 📋 Pré-requisitos
 
-- Node.js 14.x ou superior
-- npm ou yarn
+- Windows 10 ou Superior
 
 ## 🔧 Instalação
 
