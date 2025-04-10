@@ -2,6 +2,9 @@
 
 Um leitor moderno de EPUB e PDF para Windows, construído com Electron.
 
+![Imagem do WhatsApp de 2025-04-10 à(s) 15 37 10_d2f246c5](https://github.com/user-attachments/assets/88276e6c-0f13-48db-97d4-07ffb37f5e74)
+
+
 ## 🚀 Features
 
 - Suporte para EPUB e PDF
