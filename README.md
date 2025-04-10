@@ -22,7 +22,7 @@
 
 ## 📦 Instalação
 
-- Faça o download da versão mais recente na seção [Releases]([https://github.com/seu-usuario/seu-repo/releases](https://github.com/gdcodedev/Leafy-Book-Reader-Windows/releases/tag/v0.0.1))
+- Faça o download da versão mais recente na seção [Releases](https://github.com/gdcodedev/Leafy-Book-Reader-Windows/releases/tag/v0.0.1))
 - Execute o instalador `.exe` (instalação limpa, sem anúncios)
 
 ## 🗂️ Diretórios e Configurações
