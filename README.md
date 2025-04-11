@@ -3,7 +3,8 @@
 **Leafy Book Reader** é um leitor moderno e gratuito de livros digitais nos formatos **EPUB** e **PDF**, desenvolvido em Electron para sistemas Windows. Ideal para quem busca uma experiência limpa, fluida e personalizável.
 
 ### 🖼️ Interface do aplicativo
-![Interface do Leafy Book Reader](https://github.com/user-attachments/assets/88276e6c-0f13-48db-97d4-07ffb37f5e74)
+![Interface do Leafy Book Reader](https://github.com/user-attachments/assets/96ddddea-04ae-449c-8e21-e42ba24b2e92)
+
 
 ## 🚀 Funcionalidades
 
