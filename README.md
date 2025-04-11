@@ -13,8 +13,14 @@
 - 🕓 Histórico de leitura automática
 - ⭐ Sistema de favoritos
 - 🧭 Interface moderna, limpa e intuitiva
-- 🔍 Zoom e controle de visualização para PDFs
+- 🔍 Zoom e controle de visualização aprimorado para PDFs e HQs
 - ✏️ Personalização de fonte e espaçamento para EPUBs
+- 📱 Visualização otimizada para HQs e mangás
+- 🎯 Ajuste automático de página para melhor experiência de leitura
+- 🔄 Importação flexível de arquivos
+- 💫 Transições suaves entre páginas
+- 📊 Interface adaptativa para diferentes formatos
+- 🎨 Renderização otimizada para imagens em alta qualidade
 
 ## 🖥️ Requisitos
 
@@ -46,3 +52,8 @@ Este projeto está licenciado sob a **MIT License** – veja o arquivo [LICENSE]
 - [ ] 📚 Suporte a mais formatos (CBZ, MOBI)
 - [ ] 🌙 Modo de leitura noturna aprimorado
 - [ ] 🎨 Customização avançada de temas
+- [ ] 📱 Versão mobile
+- [ ] 🔄 Sincronização entre dispositivos
+- [ ] 🎯 Modo de leitura focada
+- [ ] 📊 Estatísticas de leitura
+- [ ] 🔍 Busca avançada no texto 
